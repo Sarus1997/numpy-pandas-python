@@ -4,6 +4,7 @@
 - Python 3.x
 - NumPy
 - Pandas
+- tabulate
 
 ## Installation
 ```bash
