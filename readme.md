@@ -4,10 +4,11 @@
 - Python 3.x
 - NumPy
 - Pandas
+- Openpyxl (if you want to read Excel files)
 
 ## Installation
 ```bash
-pip install numpy pandas
+pip install -r requirements.txt
 ```
 ## License
 MIT License
